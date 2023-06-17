@@ -1,15 +1,15 @@
 {
-  "displayName": "Gree air conditioner",
+  "displayName": "Gree air conditioner (XYZ)",
   "name": "homebridge-gree-air-conditioner",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "description": "A simple gree air conditioner platform for homebridge",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kongkx/homebridge-gree-air-conditioner.git"
+    "url": "git://github.com/xyzrepo/homebridge-gree-air-conditioner.git"
   },
   "bugs": {
-    "url": "https://github.com/kongkx/homebridge-gree-air-conditioner/issues"
+    "url": "https://github.com/xyzrepo/homebridge-gree-air-conditioner/issues"
   },
   "engines": {
     "node": ">=10.17.0",
